@@ -4,4 +4,7 @@ An Android app is Security Flashlight You may use it in your Android apps provid
 界面展示，不多说上图
 ![主界面](https://github.com/jeokwok/MyApplication/blob/master/Screenshot_2019-01-03-23-56-22-507_com.example.ad.png)
 ![](https://github.com/jeokwok/MyApplication/blob/master/Screenshot_2019-01-03-23-56-26-181_com.example.ad.png)
+
+下图部分功能还没实现，提供参考
 ![](https://github.com/jeokwok/MyApplication/blob/master/Screenshot_2019-01-03-23-56-30-369_com.example.ad.png)
+![](https://github.com/jeokwok/MyApplication/blob/master/Screenshot_2019-01-03-23-56-34-274_com.example.ad.png)
