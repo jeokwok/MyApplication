@@ -9,7 +9,8 @@ An Android app is Security Flashlight You may use it in your Android apps provid
 ![主界面](https://github.com/jeokwok/MyApplication/blob/master/Screenshot_2019-01-03-23-56-22-507_com.example.ad.png)
 ## 报警界面
 ![](https://github.com/jeokwok/MyApplication/blob/master/Screenshot_2019-01-03-23-56-26-181_com.example.ad.png)
-
+## 更多功能
 下图部分功能还没实现，仅供参考
 ![](https://github.com/jeokwok/MyApplication/blob/master/Screenshot_2019-01-03-23-56-30-369_com.example.ad.png)
+## 退出界面
 ![](https://github.com/jeokwok/MyApplication/blob/master/Screenshot_2019-01-03-23-56-34-274_com.example.ad.png)
