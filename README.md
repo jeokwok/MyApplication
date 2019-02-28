@@ -1,5 +1,5 @@
 # 一款安全的强光手电、小手电、手机闪光灯手电
-An Android app is Security Flashlight You may use it in your Android apps provided that you cite  this  project and include the my license in your app.（license 【 copyright @ by jeokwok https://github.com/jeokwok】 ） 一款安全的强光手电！ 主要实现代码块在 MyApplication/app/src/main/java/com/example/administrator/myapplication/MainActivity.java中， 学习Android练手项目，已不在支持维护。有意可以fork下
+An Android app is Security Flashlight You may use it in your Android apps provided that you cite  this  project and include the my license in your app.（license 【 copyright @ by jeokwok https://github.com/jeokwok 】 ） 一款安全的强光手电！ 主要实现代码块在 MyApplication/app/src/main/java/com/example/administrator/myapplication/MainActivity.java中， 学习Android练手项目，已不在支持维护。有意可以fork下
 :+1:
 
 
