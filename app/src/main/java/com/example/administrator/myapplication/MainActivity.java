@@ -154,7 +154,7 @@ public class MainActivity extends AppCompatActivity  {
         layout.addView(myView);
 
         setContentView(layout);
-        //setContentView(R.layout.activity_main);*/
+        setContentView(R.layout.activity_main);*/
 
 
     private void onMoreClickEvent() {
